@@ -1,0 +1,1 @@
+ else {printf("%d is Not Prime\n",j);}
